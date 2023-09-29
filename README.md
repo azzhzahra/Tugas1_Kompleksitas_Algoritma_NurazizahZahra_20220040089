@@ -1,0 +1,2 @@
+# Tugas1_Kompleksitas_Algoritma_NurazizahZahra_20220040089
+tugas ini untuk memenuhi mata kuliah Kompleksitas Algoritma
